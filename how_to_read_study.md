@@ -41,7 +41,7 @@
  >Clarity：論文は明解に書かれているか？ [5]
 
 # フォーマット
-[format](./paper/format.md)  
+[format](Paper-Survey/README.md)  
 
 # 論文の種類  
 
