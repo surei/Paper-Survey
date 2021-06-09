@@ -12,7 +12,7 @@
 # 論文調べ
 調べた・読んだ論文をまとめていきます。
 
-[論文の読み方などのまとめ](./how_to_read_summarize.md)
+[論文の読み方などのまとめ](how_to_read_study.md)
 取り敢えず、AbstractとIntroduceら辺だけ読む。
 
 ## ルール
